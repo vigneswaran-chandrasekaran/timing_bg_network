@@ -1,0 +1,21 @@
+dt: 0.01 s
+
+input dimension: 4
+
+action dimension (gpi neurons): 3
+
+No. of oscillators: 32
+
+Input scaler to oscillator: 5.0
+
+kPD: 0.1
+
+kSCZ: 4.0
+
+gpi threshold: 0.12 (M), 0.04 (W)
+
+βD1, βD2: 15
+
+τgpi: 0.03
+
+ς: 0.01 s
